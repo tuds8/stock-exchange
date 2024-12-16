@@ -73,32 +73,32 @@ This project is a **Stock Exchange** fullstack application built with a **React.
 <div align="center">
 
 ### Home Page
-![Home Page](_docs\HomePage.png)
+![Home Page](./_docs/HomePage.png)
 
 ---
 
 ### Offers Page
-![Offers Page](_docs\OffersPage.png)
+![Offers Page](./_docs/OffersPage.png)
 
 ---
 
 ### Transactions Page
-![Transactions Page](_docs\TransactionsPage.png)
+![Transactions Page](./_docs/TransactionsPage.png)
 
 ---
 
 ### Profile Page
-![Profile Page](_docs\ProfilePage.png)
+![Profile Page](./_docs/ProfilePage.png)
 
 ---
 
 ### Login Page
-![Login Page](_docs\LoginPage.png)
+![Login Page](./_docs/LoginPage.png)
 
 ---
 
 ### Register Page
-![Register Page](_docs\RegisterPage.png)
+![Register Page](./_docs/RegisterPage.png)
 
 </div>
 
